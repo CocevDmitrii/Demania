@@ -1,5 +1,4 @@
-(Try to mind creative, use all sources , use books , ethernet but don't miss up time) 
-Task for "Junior Python developer" (Demania) Task: "Python Hardware" Sequence:
+(Try to mind creative, use all sources , use books , ethernet but don't miss up time) Task for "Junior Python developer" (Demania) Task: "Python Hardware" Sequence:
 To port console app "Gnu Go" from range of simple code presented by copyright owner th_g $. Normatives:
                                                                                             Tipical Tips:
 1)Yielding the mouse PC 'll straighten broken objects.                                      import math   
