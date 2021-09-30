@@ -1,4 +1,4 @@
-"Python Hardware" To port console app "Gnu Go" from range of simple code presented by copyright owner th_g $:
+| To port console app "Gnu Go" from range of simple code presented by copyright owner th_g $:
 
 1)Yielding the mouse PC 'll straighten broken objects.                                      
 2)Feeling the paradox according to jerkling non-truely also unconsciously mouse algorithm 'll stop debug     
