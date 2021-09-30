@@ -1,13 +1,11 @@
 (Try to mind creative, use all sources , use books , ethernet but don't miss up time)
 Task for "Junior Python developer" (Demania)
-Task: "Python Hardware" Sequence:
-To port console app "Gnu Go" from range of simple code presented by copyright owner th_g $. Normatives:
-                                                                                            Tipical Tips:
-1)Yielding the mouse PC 'll straighten broken objects.                                      import math   
-2)Feeling the paradox according to jerkling non-truely also unconsciously mouse algorithm 'll stop debug    import random 
-3)Achieving Corkcrew effect 'll be bonusly accordance to highlihted.                        import figure
+Task: "Python Hardware"
+To port console app "Gnu Go" from range of simple code presented by copyright owner th_g $:                                                                  1)Yielding the mouse PC 'll straighten broken objects.                                      
+2)Feeling the paradox according to jerkling non-truely also unconsciously mouse algorithm 'll stop debug     
+3)Achieving Corkcrew effect 'll be bonus accordance to highlihted.              
 
-Example of the program: Input:
+Example of the program: 
 
 import math
 
@@ -21,7 +19,6 @@ for i in range (term + (diagonal - 2)):
     product = ((product * (i+1))/(math.factorial(diagonal - 1)))
 
 print(product)
-
 
 || Grade of marks:
 
