@@ -6,18 +6,18 @@
 
 Example of the program: 
 
-import math
+        import math
 
-diagonal = input("What diagonal do you want to see?")
+        diagonal = input("What diagonal do you want to see?")
 
-term = input("What term do you want to see?")
+        term = input("What term do you want to see?")
 
-product= term
-for i in range (term + (diagonal - 2)):
+        product= term
+        for i in range (term + (diagonal - 2)):
 
-    product = ((product * (i+1))/(math.factorial(diagonal - 1)))
+        product = ((product * (i+1))/(math.factorial(diagonal - 1)))
 
-print(product)
+        print(product)
 
 || Grade of marks:
 
