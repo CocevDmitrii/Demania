@@ -2,9 +2,9 @@
 
 
 
-1)Yielding the mouse PC 'll straighten broken objects.                                      
-2)Feeling the paradox according to jerkling non-truely also unconsciously mouse algorithm 'll stop debug     
-3)Achieving Corkcrew effect 'll be bonus accordance to highlighted.              
+[1)Do as yielding the mouse PC will straight ahead to target respective.                                      ]
+[2)Feeling the paradox according to jerkling non-truely unconsciously mouse algorithm 'll stop debug.     ]
+[3)Achieving corkcrew effect will be bonus accordance to highlighted.              ]
 
 Example of the program: 
 
