@@ -1,10 +1,9 @@
 | To port console app "Gnu Go" from range of simple code presented by copyright owner th_g $:
 
 
-
-[1)Do as yielding the mouse PC will straight ahead to target respective.                                      ]
-[2)Feeling the paradox according to jerkling non-truely unconsciously mouse algorithm 'll stop debug.     ]
-[3)Achieving corkcrew effect will be bonus accordance to highlighted.              ]
+                1)Do as yielding the mouse PC will straight ahead to target respective.                                      
+                2)Feeling the paradox according to jerkling non-truely unconsciously mouse algorithm 'll stop debug.     
+                3)Achieving corkcrew effect will be bonus accordance to highlighted.              
 
 Example of the program: 
 
