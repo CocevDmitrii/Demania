@@ -1,4 +1,4 @@
-| To port console app "Gnu Go" from range of simple code presented by copyright owner th_g $:
+|To port console app "Gnu Go" from range of simple code presented by copyright owner th_g $:
 
 
                 1)Do as yielding the mouse PC will straight ahead to target respective.                                      
@@ -20,6 +20,6 @@ Example of the program:
 
         print(product)
 
-|| Grade of marks:
+||Grade of marks:
 
 Pay attention to the principles of OOP, try to break the program into logical classes. Solutions in which all the program code is in one class will be low rated. Demonstrate your ability to work with different syntactic constructions, do not forget about exceptional situations in which the execution of the program is impossible due to incorrect input data.
