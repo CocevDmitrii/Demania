@@ -1,4 +1,4 @@
-|To port console app "Gnu Go" from range of simple code presented by copyright owner                                                       th_g $:
+|To port console app "Gnu Go" from range of simple code presented by copyright owner           th_g $:
 
 
                 1)Do as yielding the mouse PC will straight ahead to target respective.                                      
