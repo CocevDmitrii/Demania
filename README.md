@@ -1,4 +1,4 @@
-|Try to port console app like  from given       "Gnu Go":
+|Try to port console app like  from given                                                                                 "Gnu Go":
                                                                                      
 
 
